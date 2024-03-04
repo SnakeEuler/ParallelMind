@@ -1,2 +1,2 @@
 # ParallelMind
- Beau And Q
+ Max And Q
