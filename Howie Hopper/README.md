@@ -6,7 +6,7 @@ ___
 This is our game. 
 
 ## Parallel Relay and Event System
-A light weight and customizable event management system that is a work in progress. I features basic pooling and
+A light weight and customizable event management system that is a work in progress. Ii features basic pooling and
 garbage collection. 
 
 This includes a super easy to use, inspector friendly scriptable event system that uses all kinds of generics. 
